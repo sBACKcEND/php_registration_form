@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
 
 $name = $_GET['name'];
 $surname = $_GET['surname'];
@@ -61,4 +61,4 @@ $message = $_GET['textarea'];
     </div>
 </body>
 
-</html> -->
+</html>
