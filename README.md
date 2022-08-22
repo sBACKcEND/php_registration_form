@@ -6,7 +6,7 @@ Link:  https://sbackcend.github.io/php_registration_form/
 
 ---
 
-Screenshoots:
+Screenshots:
 
 ![screenshot](https://user-images.githubusercontent.com/107551364/185767762-6f30b3e9-122d-4b3b-9f49-eb263a22922a.png)
 
